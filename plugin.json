@@ -1,0 +1,8 @@
+{
+  "name": "NoSwear",
+  "version": "1.0",
+  "mainClass": "io.github.gawdserver.noswear.NoSwear",
+  "events": {
+    "chatEvent": "io.github.gawdserver.noswear.ChatListener"
+  }
+}
